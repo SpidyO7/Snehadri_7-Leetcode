@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SpidyO7/sb/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SpidyO7/sb/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Database
+|  |
+| ------- |
+| [1084-sales-analysis-iii](https://github.com/SpidyO7/sb/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
