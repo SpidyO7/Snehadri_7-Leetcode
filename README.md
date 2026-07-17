@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SpidyO7/sb/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SpidyO7/sb/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SpidyO7/sb/tree/master/1331-rank-transform-of-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SpidyO7/sb/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SpidyO7/sb/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SpidyO7/sb/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SpidyO7/sb/tree/master/3532-path-existence-queries-in-a-graph-i) |
