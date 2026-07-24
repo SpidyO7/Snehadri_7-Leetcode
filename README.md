@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SpidyO7/sb/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SpidyO7/sb/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SpidyO7/sb/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SpidyO7/sb/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SpidyO7/sb/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SpidyO7/sb/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SpidyO7/sb/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SpidyO7/sb/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SpidyO7/sb/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
