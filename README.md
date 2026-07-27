@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SpidyO7/sb/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SpidyO7/sb/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SpidyO7/sb/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SpidyO7/sb/tree/master/3312-sorted-gcd-pair-queries) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SpidyO7/sb/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SpidyO7/sb/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SpidyO7/sb/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1410-html-entity-parser](https://github.com/SpidyO7/sb/tree/master/1410-html-entity-parser) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SpidyO7/sb/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/SpidyO7/sb/tree/master/1331-rank-transform-of-an-array) |
 | [1410-html-entity-parser](https://github.com/SpidyO7/sb/tree/master/1410-html-entity-parser) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SpidyO7/sb/tree/master/3312-sorted-gcd-pair-queries) |
