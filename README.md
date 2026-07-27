@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SpidyO7/sb/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SpidyO7/sb/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1410-html-entity-parser](https://github.com/SpidyO7/sb/tree/master/1410-html-entity-parser) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SpidyO7/sb/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SpidyO7/sb/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SpidyO7/sb/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SpidyO7/sb/tree/master/1331-rank-transform-of-an-array) |
+| [1410-html-entity-parser](https://github.com/SpidyO7/sb/tree/master/1410-html-entity-parser) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SpidyO7/sb/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SpidyO7/sb/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Database
