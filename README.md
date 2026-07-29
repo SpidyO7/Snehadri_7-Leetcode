@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/SpidyO7/sb/tree/master/0175-combine-two-tables) |
 | [1084-sales-analysis-iii](https://github.com/SpidyO7/sb/tree/master/1084-sales-analysis-iii) |
 | [1193-monthly-transactions-i](https://github.com/SpidyO7/sb/tree/master/1193-monthly-transactions-i) |
 ## Topological Sort
